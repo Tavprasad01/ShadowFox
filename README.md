@@ -7,7 +7,7 @@ This project builds a regression model to predict house prices in Boston based o
 ```
 boston-house-price-prediction/
 ├── data/                  # Contains HousingData.csv
-├── models/                # Trained model (Linear Regression)
+├── models/ and src/       # Trained model (Linear Regression)
 ├── notebooks/             #contains analysis.
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project overview and instructions
